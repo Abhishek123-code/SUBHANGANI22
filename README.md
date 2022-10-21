@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [indo_bio_crop](https://subhangani22.github.io/futurereadyproject/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **Cloud computing,Web Development**
 
